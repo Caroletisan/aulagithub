@@ -1,9 +1,5 @@
 <h1 align="center">ENGENHARIA DE DADOS E BIG DATA</h1>
 
-<h1 align="center", href="#GIT-HUB">
-    <a href="https://bitbucket.org/data-ops-hdo/workspace/projects/HDO">🔗 BITBUCKET</a>
-</h1>
-
 <p align="center">🚀 Ambiente git para versionamento de código do projeto</p>
 
 <h2 href="#git-init">1 - Iniciando um Repositório</h2>
